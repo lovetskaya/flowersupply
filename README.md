@@ -1,5 +1,6 @@
 ## Быстрый запуск
 **Требования**
+<li>
 *Java 17+ (JDK для backend)
 *Node.js 18+ (для frontend)
 *PostgreSQL 15+ (база данных)
