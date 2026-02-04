@@ -14,8 +14,8 @@ git clone https://github.com/ваш-логин/flowersupply-java.git cd flower
 2. Запустите все сервисы одной командой
 docker-compose up -d
 3. Откройте в браузере:
-**Frontend: http://localhost:3000**
-**Backend API: http://localhost:8080/api**
+<li> **Frontend: http://localhost:3000**
+<li> **Backend API: http://localhost:8080/api**
 
 ---
 
