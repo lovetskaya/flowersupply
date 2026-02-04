@@ -1,14 +1,10 @@
 ## Быстрый запуск
 **Требования**
-Java 17+ (JDK для backend)
-***
-Node.js 18+ (для frontend)
-***
-PostgreSQL 15+ (база данных)
-***
-Maven 3.8+ (сборка Java проекта)
-***
-Docker & Docker Compose (для контейнеризации)
+<li> Java 17+ (JDK для backend)
+<li> Node.js 18+ (для frontend)
+<li> PostgreSQL 15+ (база данных)
+<li> Maven 3.8+ (сборка Java проекта)
+<li> Docker & Docker Compose (для контейнеризации)
 
 ---
 
