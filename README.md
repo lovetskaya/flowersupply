@@ -5,6 +5,7 @@
 <li> PostgreSQL 15+ (база данных)
 <li> Maven 3.8+ (сборка Java проекта)
 <li> Docker & Docker Compose (для контейнеризации)
+Оформление ссылки [ПОДРОБНЕЕ МОЖНО ПОСМОТРЕТЬ В МИРО ПО ЭТОЙ ССЫЛКЕ] (https://miro.com/welcomeonboard/OG9rOWNaMDREcHpRK09VbG8vSzB6cTl5Q2w2S0ozQUtMQXFBR2pNb0N2ZkU0WUlqVk1YS0lCdFNRSFlMam0zaHVoaWpCWnBSMStvRmd2V0NjUWtIQnYrWFlxb044RjBOeU4wREwyRE9OemJ2d1d3UXFHcWZldkVQYTRveWN1YWlnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=882925391745)
 
 ---
 
